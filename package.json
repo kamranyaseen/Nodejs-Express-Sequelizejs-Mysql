@@ -1,0 +1,19 @@
+{
+  "name": "nodejs-express-sequelizejs-mysql",
+  "version": "1.0.0",
+  "description": "nodejs-express-sequelizejs-mysql",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "NodeJs-Express-SequelizeJs-MySQL"
+  ],
+  "author": "Kamran Yaseen",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.16.3",
+    "mysql2": "^1.5.3",
+    "sequelize": "^4.37.6"
+  }
+}
